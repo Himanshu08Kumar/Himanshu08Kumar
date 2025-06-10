@@ -37,7 +37,7 @@
   <a href="https://twitter.com/_2nitish6_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> -->
   <a href="mailto:himanshukumar802123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a href="https://leetcode.com/u/himanshukumar802123/" target="_blank">
-  <img src="https://img.shields.io/badge/Leetcode-D14836?style=for-the-badge&logo=leetcode&logoColor=white">
+  <img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
 </a>
 </a>
 </ul>
