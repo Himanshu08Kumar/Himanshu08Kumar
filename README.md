@@ -1,8 +1,8 @@
 <hr>
 <!-- <a href="https://visitorbadge.io/status?path=NitishSoni-1726"><img src="https://api.visitorbadge.io/api/visitors?path=NitishSoni-1726&countColor=%23f47373&style=flat-square" /></a> -->
+<img src = "https://assets.leetcode.com/static_assets/others/lg2550.png" width="30%" height="30%"/>
 <hr>
 <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
-<img src = "https://assets.leetcode.com/static_assets/others/lg2550.png"/>
 <li>👋 Hey, Himanshu Kumar this side.</li>
 <li>🎓 Did Bachelor's of Engineering in Software Engineering form Jain University, Bangalore.</li>
 <!-- <li>🏫 Currently working as Solution Analyst in HCL</li> -->
