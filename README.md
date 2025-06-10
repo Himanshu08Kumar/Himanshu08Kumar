@@ -1,6 +1,6 @@
 <hr>
 <!-- <a href="https://visitorbadge.io/status?path=NitishSoni-1726"><img src="https://api.visitorbadge.io/api/visitors?path=NitishSoni-1726&countColor=%23f47373&style=flat-square" /></a> -->
-<img src = "https://assets.leetcode.com/static_assets/others/lg2550.png" width="30%" height="30%"/>
+<img src = "https://assets.leetcode.com/static_assets/others/lg2550.png" width="10%" height="10%"/>
 <hr>
 <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 <li>👋 Hey, Himanshu Kumar this side.</li>
